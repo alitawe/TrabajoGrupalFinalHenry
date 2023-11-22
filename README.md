@@ -20,7 +20,7 @@ Para ello, se consiguio data de 100k de ordenes desde el 2016 hasta el 2018, de 
 Esto se puede ver desde distintas dimensiones, status de las ordenes, precios, pagos y perfomance de envios hacia los usuarios, productos e incluso reviews de los mismos, escritos por diversos clientes.
 Así mismo, se podrá encontrar un archivo de geolocalización con todos los códigos postales de Brasil, junto con tu latitud y longitud.
 
-El proceso es el siguiente, una vez que el cliente realiza una compra en Olist, un vendedor es notificado para comenzar a armar la orden.
+El proceso ha realizar es el siguiente, una vez que el cliente realiza una compra en Olist, un vendedor es notificado para comenzar a armar la orden.
 Luego, cuando el cliente recibe el producto o se agoto el tiempo en el cual debía recibirlo, el cliente recibe una encuesta de satisfacción por mail, donde puede hacer una review sobre su experiencia
 
 
@@ -32,14 +32,7 @@ En el siguiente enlace van a poder encontrar los datsets propuestos:
 - https://drive.google.com/drive/folders/1ew7ijSt-zjVObB62oIXUI-LMWNKNha1K?usp=sharing
 
 
-## Data Schema
-Los datos están divididos en distintos datasets para ser comprendidos de una manera más eficiente.
-
-La información clasificada fue removida.
-
 ## ¿Qué esperamos?  Algunas fuentes de inspiración:  
-En base a los siguientes puntos, esperamos que puedan elegir los que el grupo desee utilizar. Es decir, tienen la libertad de elección de los temas y el alcance que le quieran dar a su proyecto. Esto trae consigo una dificultad más, ya que el proyecto no está acotado a pautas estrictas, sino que van a poder moldear el enfoque de acuerdo a sus preferencias.   
-Además, como se menciona en el título, son fuentes de inspiración, por lo que pueden optar por no utilizar ningúno, y traer sus propias propuestas (las cuales claro, serán aceptadas o no por su Product Owner).
 
 * Ventas:<br>
 En base a la data que tenemos podemos hacer una pequeña predicción de como podrían ser las ventas a futuro. 
@@ -78,11 +71,15 @@ El equipo de ventas y el equipo de productos están planificando la ceremonia de
 
 
 
-
+## Integrantes de equipo
+Mazzocchi Juan Alberto
+Alejandra Werbach
+Cecilia Isabel Gómez
+Melissa Flores
 
 
 
 ## Disclaimer  
 De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad.
- No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
+
 
