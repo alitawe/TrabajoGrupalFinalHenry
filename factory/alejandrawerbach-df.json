@@ -1,0 +1,9 @@
+{
+	"name": "alejandrawerbach-df",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b740cc97-e9c2-4722-9e9b-933ebdf81a0f",
+		"tenantId": "d06e9bc8-efdd-44b7-b8d1-b2b8c13de5a6"
+	}
+}
