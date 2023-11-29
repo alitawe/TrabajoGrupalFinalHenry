@@ -1,0 +1,16 @@
+{
+	"name": "target_stg_customers",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "stg_area_master.",
+			"table": "stg_customers"
+		}
+	}
+}
