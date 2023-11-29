@@ -1,0 +1,12 @@
+{
+	"name": "github_paginaweb_customers",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/alitawe/TrabajoGrupalFinalHenry/main/Datasets_Limpios/olist_customers_dataset.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
