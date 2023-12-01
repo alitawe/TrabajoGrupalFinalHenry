@@ -1,0 +1,9 @@
+{
+	"name": "alejandrawerbach-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dbe250ec-0567-4207-8d2b-087e031d3722",
+		"tenantId": "d06e9bc8-efdd-44b7-b8d1-b2b8c13de5a6"
+	}
+}

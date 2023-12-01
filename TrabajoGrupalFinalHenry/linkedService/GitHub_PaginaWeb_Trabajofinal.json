@@ -1,0 +1,13 @@
+{
+	"name": "GitHub_PaginaWeb_Trabajofinal",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/alitawe/TrabajoGrupalFinalHenry",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
